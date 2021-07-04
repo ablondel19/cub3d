@@ -1,0 +1,14 @@
+NO xpm/redbrick.xpm
+SO xpm/wood.xpm
+WE xpm/purplestone.xpm
+EA xpm/colorstone.xpm
+S xpm/pillar.xpm
+C 125,0,0
+F 0,125,0
+R 1000 1000
+
+11111
+10001
+10N01
+10001
+11111
